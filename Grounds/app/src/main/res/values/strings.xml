@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Grounds</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoidml2cmVrYXIiLCJhIjoiY2tma3JtM3JxMG5wYTJzdDR2bGlyNGQ0ZCJ9.Nq8O8YcSclwl3MhNLkkxSA</string>
+</resources>
